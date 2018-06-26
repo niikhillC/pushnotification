@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "815557084137",
+    "firebase_url": "https://seventh-dynamo-180113.firebaseio.com",
+    "project_id": "seventh-dynamo-180113",
+    "storage_bucket": "seventh-dynamo-180113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815557084137:android:c0eadf4a058179e0",
+        "android_client_info": {
+          "package_name": "com.example.student.pushbotss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815557084137-vhq1fsphqpglhkqlsjq71dkb489tc34d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTQABBk4ZZisLf2AMw1hEBMbh5z301-kg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815557084137:android:aea2a798917b0dfd",
+        "android_client_info": {
+          "package_name": "com.example.studnent.pushbotss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815557084137-vhq1fsphqpglhkqlsjq71dkb489tc34d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTQABBk4ZZisLf2AMw1hEBMbh5z301-kg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
